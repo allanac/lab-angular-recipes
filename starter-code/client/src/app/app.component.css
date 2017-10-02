@@ -1,0 +1,16 @@
+body {
+  margin: 0px;
+  padding: 0px;
+}
+
+.container {
+  display: flex;
+}
+
+.container ul {
+  list-style: none;
+}
+
+.container img {
+  max-width: 100px;
+}
